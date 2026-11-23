@@ -11,6 +11,7 @@ A hands-on learning repository for exploring Hugging Face Transformers, datasets
 - [`using_datasets_library.ipynb`](notebooks/using_datasets_library.ipynb) — Load and explore the Drugs.com reviews dataset with 🤗 Datasets; clean and transform columns, then create train, validation, and test splits.
 - [`creating_your_own_dataset.ipynb`](notebooks/creating_your_own_dataset.ipynb) — Fetch GitHub issues and comments, prepare them as a dataset, and work with the Hugging Face Hub.
 - [`preprocessing_the_data.ipynb`](notebooks/preprocessing_the_data.ipynb) — Explore data preprocessing for model workflows.
+- [`normalization_and_pre_processing.ipynb`](notebooks/normalization_and_pre_processing.ipynb) — Explore text normalization and preprocessing techniques for NLP data.
 
 ### Fine-tuning models
 - [`fine_tuning_using_trainer_api.ipynb`](notebooks/fine_tuning_using_trainer_api.ipynb) — Fine-tune BERT for the GLUE MRPC sentence-pair classification task using the Hugging Face `Trainer` API.
