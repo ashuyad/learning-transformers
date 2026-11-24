@@ -13,6 +13,9 @@ A hands-on learning repository for exploring Hugging Face Transformers, datasets
 - [`preprocessing_the_data.ipynb`](notebooks/preprocessing_the_data.ipynb) — Explore data preprocessing for model workflows.
 - [`normalization_and_pre_processing.ipynb`](notebooks/normalization_and_pre_processing.ipynb) — Explore text normalization and preprocessing techniques for NLP data.
 
+### Tokenizers
+- [`training-a new-tokenizer-from-old.ipynb`](notebooks/training-a%20new-tokenizer-from-old.ipynb) — Train a new tokenizer adapted from an existing tokenizer vocabulary and configuration.
+
 ### Fine-tuning models
 - [`fine_tuning_using_trainer_api.ipynb`](notebooks/fine_tuning_using_trainer_api.ipynb) — Fine-tune BERT for the GLUE MRPC sentence-pair classification task using the Hugging Face `Trainer` API.
 - [`fine_tuning_using_trainer_api_and_visualizing_weight&biases.ipynb`](notebooks/fine_tuning_using_trainer_api_and_visualizing_weight%26biases.ipynb) — Explore Trainer-based fine-tuning and experiment-tracking configuration with Weights & Biases.
