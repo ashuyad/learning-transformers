@@ -21,6 +21,7 @@ A hands-on learning repository for exploring Hugging Face Transformers, datasets
 - [`fine_tuning_using_trainer_api_and_visualizing_weight&biases.ipynb`](notebooks/fine_tuning_using_trainer_api_and_visualizing_weight%26biases.ipynb) — Explore Trainer-based fine-tuning and experiment-tracking configuration with Weights & Biases.
 - [`fine_tuning_using_trainer_api_push_to_hub.ipynb`](notebooks/fine_tuning_using_trainer_api_push_to_hub.ipynb) — Fine-tune on GLUE MRPC and configure the training workflow to push the model to the Hugging Face Hub.
 - [`training_model_in_pytorch_without_trainer_class.ipynb`](notebooks/training_model_in_pytorch_without_trainer_class.ipynb) — Explore model training with PyTorch without using the `Trainer` class.
+- [`fine-tune-model-for-token_classification.ipynb`](notebooks/fine-tune-model-for-token_classification.ipynb) — Fine-tune a Transformer model for token classification using a named-entity recognition dataset.
 
 ### Semantic search
 - [`semantic_search_with_FAISS.ipynb`](notebooks/semantic_search_with_FAISS.ipynb) — Create embeddings from GitHub issue discussions and use FAISS to retrieve semantically similar examples.
