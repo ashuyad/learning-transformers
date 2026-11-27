@@ -23,6 +23,7 @@ A hands-on learning repository for exploring Hugging Face Transformers, datasets
 - [`training_model_in_pytorch_without_trainer_class.ipynb`](notebooks/training_model_in_pytorch_without_trainer_class.ipynb) — Explore model training with PyTorch without using the `Trainer` class.
 - [`fine-tune-model-for-token_classification.ipynb`](notebooks/fine-tune-model-for-token_classification.ipynb) — Fine-tune a Transformer model for token classification using a named-entity recognition dataset.
 - [`fine_tune_masked_language_model.ipynb`](notebooks/fine_tune_masked_language_model.ipynb) — Fine-tune a masked language model on domain text and use masked-token predictions as examples.
+- [`fine_tune_translation_model.ipynb`](notebooks/fine_tune_translation_model.ipynb) — Fine-tune a sequence-to-sequence Transformer for machine translation.
 
 ### Semantic search
 - [`semantic_search_with_FAISS.ipynb`](notebooks/semantic_search_with_FAISS.ipynb) — Create embeddings from GitHub issue discussions and use FAISS to retrieve semantically similar examples.
