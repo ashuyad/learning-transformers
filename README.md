@@ -25,6 +25,9 @@ A hands-on learning repository for exploring Hugging Face Transformers, datasets
 - [`fine_tune_masked_language_model.ipynb`](notebooks/fine_tune_masked_language_model.ipynb) — Fine-tune a masked language model on domain text and use masked-token predictions as examples.
 - [`fine_tune_translation_model.ipynb`](notebooks/fine_tune_translation_model.ipynb) — Fine-tune a sequence-to-sequence Transformer for machine translation.
 
+### Language model training
+- [`training_a_causal_language_model.ipynb`](notebooks/training_a_causal_language_model.ipynb) — Prepare code datasets and train a causal language model, then generate Python code with the resulting model.
+
 ### Semantic search
 - [`semantic_search_with_FAISS.ipynb`](notebooks/semantic_search_with_FAISS.ipynb) — Create embeddings from GitHub issue discussions and use FAISS to retrieve semantically similar examples.
 
